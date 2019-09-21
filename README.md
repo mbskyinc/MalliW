@@ -1,6 +1,15 @@
-# MalliWilliams
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
+# MalliWilliams
+This project is created using [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
+- This application lists Products and its details.
+- When user clicks on the product, it displays overlay carousel with thumbnail images.
+- Click on thumbnail image to return the Product list page.
+
+Application files:
+- app.component.ts
+- app.component.html
+- app.component.css
+
 
 ## Development server
 
